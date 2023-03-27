@@ -1,0 +1,13 @@
+____________________Customer List____________________
+Cabin 1 is empty *************************
+Cabin 2 is empty *************************
+Cabin 3 is empty *************************
+Cabin 4 is empty *************************
+Cabin 5 occupied by MARK
+Cabin 6 is empty *************************
+Cabin 7 is empty *************************
+Cabin 8 is empty *************************
+Cabin 9 is empty *************************
+Cabin 10 is empty *************************
+Cabin 11 is empty *************************
+Cabin 12 is empty *************************
